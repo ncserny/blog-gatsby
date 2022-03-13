@@ -1,6 +1,6 @@
 // custom typefaces
 import "typeface-share-tech-mono"
-import "typeface-merriweather"
+//import "typeface-merriweather"
 // normalize CSS across browsers
 import "./src/normalize.css"
 // custom CSS styles
