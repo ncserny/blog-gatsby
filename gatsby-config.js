@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `crypto notes`,
+    title: `goldstraw`,
     author: {
       name: `nadr`,
-      summary: `living in web3`,
+      summary: `Buy $PUMP, Sell $DUMP`,
     },
-    description: `Thoughts around crypto, defi and nfts`,
-    siteUrl: `https://bloggatsby31691.gatsbyjs.io/`,
+    description: `thoughts around crypto, defi, nft and web3`,
+    siteUrl: `https://goldstraw.xyz/`,
     social: {
       twitter: `nadr`,
     },
