@@ -3,7 +3,7 @@ module.exports = {
     title: `goldstraw`,
     author: {
       name: `nadr`,
-      summary: `Buy $PUMP, Sell $DUMP`,
+      summary: `thoughts around crypto, defi, nft and web3`,
     },
     description: `thoughts around crypto, defi, nft and web3`,
     siteUrl: `https://goldstraw.xyz/`,
