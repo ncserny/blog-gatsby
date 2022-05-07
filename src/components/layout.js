@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, goldstraw | 
         {` `}
-        <a href="https://twitter.com/nadr">Follow me on twitter</a>
+        <a href="">Follow me on twitter</a>
       </footer>
     </div>
   )
