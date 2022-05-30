@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `goldstraw`,
     author: {
-      name: ``,
+      name: `nmknmc`,
       summary: `thoughts around crypto, defi, nft and web3`,
     },
     description: `thoughts around crypto, defi, nft and web3`,
     siteUrl: `https://goldstraw.xyz/`,
     social: {
-      twitter: ``,
+      twitter: `nmknmc`,
     },
   },
   plugins: [
