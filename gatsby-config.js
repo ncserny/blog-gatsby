@@ -5,7 +5,7 @@ module.exports = {
       name: `NMKNMC`,
       summary: `"not my keys, not my coins"`,
     },
-    description: `thoughts around crypto, defi, nft and web3`,
+    description: `thoughts on web3, defi, nft and crypto`,
     siteUrl: `https://nmknmc.xyz/`,
     social: {
       twitter: `nmknmc`,
@@ -125,7 +125,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "crypto notes RSS Feed",
+            title: "nmknmc RSS Feed",
           },
         ],
       },
@@ -133,8 +133,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `crypto notes`,
-        short_name: `cryptoNotes`,
+        name: `nmknmc`,
+        short_name: `nmknmc`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
