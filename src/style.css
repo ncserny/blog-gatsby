@@ -54,12 +54,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #0074c4;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
   --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-accent: #82ed00;
   --color-background: #ebebeb;
 }
 
@@ -234,11 +234,12 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+  text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  text-decoration: none;
+  border-bottom: 1px solid var(--color-accent);
 }
 
 /* Custom classes */
@@ -334,4 +335,13 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+/* nmknmc Custom */
+.gatsby-resp-image-wrapper {
+  margin-bottom: 12px;
+}
+
+.gatsby-resp-image-image {
+  box-shadow: black 8px 8px 0px 1px !important;
 }

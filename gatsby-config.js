@@ -3,7 +3,7 @@ module.exports = {
     title: `nmknmc`,
     author: {
       name: `nmknmc`,
-      summary: `thoughts around crypto, defi, nft and web3`,
+      summary: `"not my keys, not my coins"`,
     },
     description: `thoughts around crypto, defi, nft and web3`,
     siteUrl: `https://nmknmc.xyz/`,

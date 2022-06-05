@@ -11,7 +11,7 @@ featuredImage: bohemia-retreat.png
 
 ![Bohemian Art Fair](./bohemian-art-fair.png)
 
-Today I discovered that the [Bohemia Art Fair](https://twitter.com/BohemiaArtFair) NFT I am holding should have already gone into the Ayahuascan Retreat as announced in their Discord one day ago. It takes 1 Bohemian, 1 Master Guru Letter and originally 250 WOOP...which I have... but as also announced in the Bohemian Discord every 250 Bohemians the amount of WOOP needed increases... and I was (too) late.
+Today I discovered the [Bohemia Art Fair](https://twitter.com/BohemiaArtFair) NFT I am holding should have already gone into the Ayahuascan Retreat (say what?) as announced in their Discord one day ago. It takes 1 Bohemian, 1 Master Guru Letter and originally 250 WOOP...which I have... to be able to join. What was also announced in the Bohemian Discord is that every 250 Bohemians joining the amount of WOOP needed increases... and I was (too) late.
 
 ![Bohemian Discord announcing the retreat and WOOP prices](./bohemia-retreat.png)
 
@@ -19,7 +19,7 @@ This triggered a bunch of thoughts in my head, most importantly:
 
 **I want to have more high conviction plays and spend less time monitoring gazillion discords and project statuses.**
 
-Also on my list:
+Also on my list of thoughts:
 
 * I don't want to spend my precious SOL to buy more WOOP to push my Bohemian to generate more WOOP then convert it to SOL again at some point when the stars align
 * I want to concentrate on fewer high conviction plays (aka "blue chips") like DeGods, Duppies, OkayBears
