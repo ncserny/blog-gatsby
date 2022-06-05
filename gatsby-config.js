@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `nmknmc`,
+    title: `NMKNMC`,
     author: {
-      name: `nmknmc`,
+      name: `NMKNMC`,
       summary: `"not my keys, not my coins"`,
     },
     description: `thoughts around crypto, defi, nft and web3`,
