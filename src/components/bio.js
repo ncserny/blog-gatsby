@@ -45,11 +45,7 @@ const Bio = () => {
       {author?.name && (
         <p>
           <strong>{author?.summary || null}</strong> / thoughts on web3, defi, nft and crypto<br />
-          Written by {author.name} /
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            Follow me on twitter
-          </a>
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>Follow me on twitter</a>
         </p>
       )}
     </div>
