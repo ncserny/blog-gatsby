@@ -145,6 +145,8 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+    // External plugin Open Graph images
+    `gatsby-plugin-open-graph-images`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
