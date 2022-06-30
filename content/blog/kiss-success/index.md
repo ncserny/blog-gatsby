@@ -2,7 +2,7 @@
 title: Gustav Klimt's NFT sale "The Kiss" is a success. For the seller
 date: "2022-02-15T01:04:03.284Z"
 description: "In honor of valentine's day the Belvedere Museum in Vienna offers Gustav Klimt's painting 'The Kiss' as fractionalized NFTs. I think it will be successful, but only for the seller."
-ogImage: "./gustav-klimt-the-kiss-nft.png"
+ogimage: "./gustav-klimt-the-kiss-nft.png"
 ---
 
 #### In honor of valentine's day the Belvedere Museum in Vienna offers Gustav Klimt's painting 'The Kiss' as fractionalized NFTs. I think it will be successful, but only for the seller.
