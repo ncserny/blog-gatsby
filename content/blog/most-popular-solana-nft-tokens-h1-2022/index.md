@@ -46,7 +46,7 @@ While $GST is in decline, $DUST transactions are on the rise which speaks for a 
 
 
 ### Price action of NFT tokens
-Far down in usage are once hyped tokens from projects like Monke Rejects (24hr volume: $204.67), Moneyboys (24hr vol: $502.71) and others. This also culminates in catastrophic price action.
+Far down in usage are once hyped tokens from projects like Monke Rejects (24hr volume: $204.67), Moneyboys (24hr vol: $502.71) and others. This also culminates in catastrophic price action and abysmal trading volume.
 
 ![NFT tokens price action](./token-prices.png)
 
