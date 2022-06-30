@@ -57,6 +57,6 @@ Far down in usage are once hyped tokens from projects like Monke Rejects (24hr v
 ##### DeGods $DUST Growth over the last 180 days
 ![$DUST Token](./dust-ecosystem-usage.png)
 
-Oh la la, Frank!
+Oh la la, [Frank](https://twitter.com/frankdegods)!
 
 > Dive deeper by looking at the [Dune Dashboard](https://dune.com/nmknmc/solana-nft-token-stats) I built and send me any feedback you might have on twitter.
