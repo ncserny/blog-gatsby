@@ -2,7 +2,7 @@
 title: Staking NFTs = Proof of Stress
 date: "2022-05-22T01:04:03.284Z"
 description: "From purchase to staking, claiming tokens and staying up-to-date. Why I want to get out of this hassle, have more high conviction plays and become more relaxed."
-ogimage: "./bohemia-retreat.png"
+ogimage: "./bohemian-art-fair.png"
 ---
 
 #### Investing into an NFT, staking it, claiming tokens and staying up-to-date is challenging. Multiply that by the number of NFT collections you're involved in and it's super stressful.
