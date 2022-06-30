@@ -16,7 +16,7 @@ In the bull market, that is now behind us, hundreds of NFT projects minted each 
 > Wen token? Token too much, no moon!
 
 ### Most popular NFT tokens by holder count
-Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/1542353296760770562) + [Birdeye](https://birdeye.so)
+$GST, by lifestyle app [Stepn](https://www.stepn.com/) has seen by far the biggest adoption with nearly one million wallets holding the token. $DUST by [DeGods](degods.com/) comes second in proximity to $SHDW and $GENE, then it decreases pretty quickly.
 
 | Rank | Token         | Collection     | Wallets |
 |--:|--------------|-----------|------------:|
@@ -30,6 +30,8 @@ Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/154235329676
 | 8 | **$PUFF**      | Stoned Ape Crew  | 8,916       |
 | 9 | **$ZION**      | Blocksmith Labs  | 8,829       |
 | 10 | **$HONEY**      | Honeybees  | 5,978       |
+
+Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/1542353296760770562) + [Birdeye](https://birdeye.so)
 
 ![Most popular NFT Tokens](./most-popular-tokens-the_merkinator.png)
 [@The_Merkinator](https://twitter.com/The_Merkinator/status/1542353296760770562)
