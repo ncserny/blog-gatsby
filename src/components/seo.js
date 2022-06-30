@@ -20,6 +20,9 @@ const Seo = ({ description, lang, meta, title, ogimage }) => {
             title
             description
             siteUrl
+            author {
+              name
+            }
             social {
               twitter
             }
@@ -48,6 +51,10 @@ const Seo = ({ description, lang, meta, title, ogimage }) => {
           content: metaDescription,
         },
         {
+          name: `author`,
+          content: site.siteMetadata?.social?.twitter || ``,
+        },
+        {
           property: `og:title`,
           content: title,
         },
@@ -67,10 +74,10 @@ const Seo = ({ description, lang, meta, title, ogimage }) => {
         //   property: `twitter:image`,
         //   content: ogImageUrl,
         // },
-        // {
-        //   property: `image`,
-        //   content: ogImageUrl,
-        // },
+        {
+          property: `image`,
+          content: ogImageUrl,
+        },
         {
           name: `twitter:card`,
           content: `summary`,
