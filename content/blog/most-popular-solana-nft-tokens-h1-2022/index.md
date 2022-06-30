@@ -2,7 +2,7 @@
 title: The most popular Solana NFT tokens of Jan-Jun 2022
 date: "2022-06-30T01:04:03.284Z"
 description: "Gazillion NFT projects mint(ed) each day. A lot of them offer staking to receive an ecosystem token that hopefully provides utility and appreciates in price. Let's look into which ones are actually successful."
-ogimage: "./og-image-solana-nft-tokens.png"
+ogimage: "./og-popular-solana-nft-tokens.png"
 ---
 
 #### Gazillion NFT projects mint(ed) each day. A lot of them offer staking to receive an ecosystem token that hopefully provides utility and appreciates in price. Let's look into which ones are actually successful.

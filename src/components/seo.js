@@ -32,6 +32,7 @@ const Seo = ({ description, lang, meta, title, ogimage }) => {
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
 
+  // OG Image
   const ogImageUrl = site.siteMetadata?.siteUrl + (ogimage || defaultOpenGraphImage)
 
   return (
