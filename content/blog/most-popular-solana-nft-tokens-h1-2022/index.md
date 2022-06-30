@@ -18,7 +18,7 @@ In the bull market, that is now behind us, hundreds of NFT projects minted each 
 Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/1542353296760770562) + [Birdeye](https://birdeye.so)
 
 | Rank | Token         | Collection     | Wallets |
-|--|--------------|-----------|------------:|
+|--:|--------------|-----------|------------:|
 | 1 | **$GST**          | StepN      | 716,551        |
 | 2 | **$DUST**      | DeGods  | 30,338       |
 | 3 | **$SHDW**      | Shadowy Super Coder  | 29,734       |
@@ -36,13 +36,13 @@ Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/154235329676
 ### Most used tokens in transactions
 Taking the most popular NFT tokens by holder count and looking at their transactions, you can see that transactions for GST and DUST are consistently highest while others only briefly spike and/or are much further behind. Staking might provide you with tokens but that doesn't mean they can be used for anything or have actual value.
 
-<iframe width="100%" src="https://dune.com/embeds/979455/1696654/d8502ad9-91b9-4a5e-b8b8-7c8a6bfbab13" style="height: 400px"></iframe>
+<iframe width="100%" src="https://dune.com/embeds/979455/1696654/d8502ad9-91b9-4a5e-b8b8-7c8a6bfbab13" style="border: 1px solid #000; height: 400px"></iframe>
 
 [Dune Dashboard with all tokens &rarr;](https://dune.com/nmknmc/solana-nft-token-stats)
 
 While $GST is in decline, $DUST transactions are on the rise which speaks for a healthy usage growth. 🤩 In a bear market it's pretty natural that you see more selling pressure though.
 
-<iframe width="100%" src="https://dune.com/embeds/979455/1696987/d4b3734d-e2c9-415e-8032-c168ef71ee9e" style="height: 400px"></iframe>
+<iframe width="100%" src="https://dune.com/embeds/979455/1696987/d4b3734d-e2c9-415e-8032-c168ef71ee9e" style="border: 1px solid #000; height: 400px"></iframe>
 
 
 ### Price action of NFT tokens

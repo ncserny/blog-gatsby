@@ -231,6 +231,10 @@ table thead tr th {
   text-align: left;
 }
 
+table td {
+  padding: var(--spacing-1);
+}
+
 /* Link */
 
 a {
