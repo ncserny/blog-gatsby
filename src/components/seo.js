@@ -9,8 +9,9 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import defaultOpenGraphImage from '../images/profile-pic.jpg'
 
-const Seo = ({ description, lang, meta, title, featuredImage }) => {
+const Seo = ({ description, lang, meta, title, ogimage }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -18,7 +19,7 @@ const Seo = ({ description, lang, meta, title, featuredImage }) => {
           siteMetadata {
             title
             description
-            featuredImage
+            siteUrl
             social {
               twitter
             }
@@ -30,6 +31,8 @@ const Seo = ({ description, lang, meta, title, featuredImage }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+
+  const ogImageUrl = site.siteMetadata?.siteUrl + (ogimage || defaultOpenGraphImage)
 
   return (
     <Helmet
@@ -57,7 +60,15 @@ const Seo = ({ description, lang, meta, title, featuredImage }) => {
         },
         {
           property: `og:image`,
-          content: featuredImage,
+          content: ogImageUrl,
+        },
+        {
+          property: `twitter:image`,
+          content: ogImageUrl,
+        },
+        {
+          property: `image`,
+          content: ogImageUrl,
         },
         {
           name: `twitter:card`,

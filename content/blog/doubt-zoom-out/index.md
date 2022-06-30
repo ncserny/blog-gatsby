@@ -2,7 +2,7 @@
 title: If in doubt, zoom out
 date: "2022-06-11T01:04:03.284Z"
 description: "Looks like Celsius Network is rekt. At least for the moment."
-featuredImage: "./Celsius-Network-Zoomed-In.png"
+ogimage: "./Celsius-Network-Zoomed-In.png"
 ---
 
 #### Looks like Celsius Network is rekt. At least for the moment. Great short opportunity.

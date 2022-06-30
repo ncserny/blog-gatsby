@@ -1,3 +1,6 @@
+// nmknmc: og image installation from: https://leogoesger.io/gatsby-blog-dark-theme-and-meta-image/#meta-image-or-opengraph-image
+
+
 module.exports = {
   siteMetadata: {
     title: `NMKNMC`,
@@ -146,7 +149,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     // External plugin Open Graph images
-    `gatsby-plugin-open-graph-images`,
+    //`gatsby-plugin-open-graph-images`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
