@@ -1,7 +1,7 @@
 ---
 title: Entering the bear market
 date: "2022-07-01T01:04:03.284Z"
-description: "Some thoughts while we enter the bear market."
+description: "Some thoughts while we enter a potential crypto winter."
 ogimage: "./bear-market-thoughts.jpg"
 ---
 
