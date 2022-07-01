@@ -48,22 +48,22 @@ While $GST is in decline, $DUST transactions are on the rise which speaks for a 
 ###### DeGods $DUST Growth over the last 180 days
 ![$DUST Token](./dust-ecosystem-usage.png)
 
+### NFT token returns through staking
+
+As mentioned, the list of NFT projects providing you with tokens in return is long. Looking at the list below, sorted by token price descending, some of the projects indeed generate a nice amount of magic internet money per day. The investment you need to make in order to join is high and the days to break even get longer and longer. For most: even if your NFT would generate hundreds of tokens, when multiplied by token price, you wouldn't get much USD in return.
+
+![Token returns](./token-returns-degenboi.png)
+[Token Returns by The Degen Boi](https://www.thedegenboi.com)
+
 ### Price action of NFT tokens
 Far down in usage are once hyped tokens from projects like Monke Rejects (24hr volume: $204.67), Moneyboys (24hr vol: $502.71) and others. This culminates in catastrophic price action and abysmal trading volume.
 
 ![NFT tokens price action](./token-prices.png)
 
-###### Solana Monke Rejects / $REJECT price action is flat**
+###### Solana Monke Rejects / $REJECT price action is flat
 
 ![Solana Monke Rejects Price Action](./monke-rejects-price-action.png)
 
-### NFT Staking Token returns
-
-As mentioned, the list of NFT projects providing you with tokens in return is long. Looking at the list below, sorted by token price descending, some of the projects indeed generate a nice amount of magic internet money per day. The investment you need to make in order to join is high though. For most: even if your NFT would generate hundreds of tokens, when multiplied by token price, you wouldn't get much USD in return.
-
-![Token returns](./token-returns-degenboi.png)
-[Token Returns by The Degen Boi](https://www.thedegenboi.com)
-
 Oh la la, [Frank](https://twitter.com/frankdegods)!
 
-> Dive deeper by looking at the [Dune Dashboard](https://dune.com/nmknmc/solana-nft-token-stats) I built and send me any feedback you might have on twitter.
+> Dive deeper into the NFT token stats with the [Dune Dashboard](https://dune.com/nmknmc/solana-nft-token-stats) I built and send me any feedback you might have on twitter.
