@@ -45,7 +45,7 @@ ogimage: "./bear-market-thoughts.jpg"
 * MakerDAO, the OG of DeFi, remains the protocol with highest TVL
 
 > The crypto carnage was driven by centralized lenders with weak risk controls and minimal collateral requirements. Defi lending protocols operated as designed, and just notched another proof point through a catastrophic risk contagion.
-> [Garry Tan](https://twitter.com/garrytan/status/1542833551988498432)
+> [Garry Tan](https://twitter.com/garrytan/status/1542833551988498432) on a great article "[Number Three](https://entrepreneurshandbook.co/number-three-511f334d8fae)" by Arthur Hayes
 
 ![DeFi Protocols Top 10](./defi-protocol-top-10.png)
 
@@ -53,4 +53,8 @@ ogimage: "./bear-market-thoughts.jpg"
 ![NFT Blockchain Volume](./nft-blockchain-volume-30days.jpg)
 * NFTs that provided you with utility through staking to receive tokens, are having a hard time. Their token price and usage has gone down dramatically. So much that if you still hold some, the only option now is to hodl.
 
-We're still early, until we're late.
+**We're still early, until we're late.**
+
+Bonus Meme: Will Three Arrows Capital rebrand to Three Arrows Classic?
+
+![Three Arrows Capital](./three-arrows-capital.png)
