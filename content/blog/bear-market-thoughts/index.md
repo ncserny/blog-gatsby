@@ -44,6 +44,9 @@ ogimage: "./bear-market-thoughts.jpg"
 * A lot of DeFi Fugazis will vanish, at latest when VC funds dry up and there isn't enough user adoption. Generating magic internet money was fun while it latest.
 * MakerDAO, the OG of DeFi, remains the protocol with highest TVL
 
+> The crypto carnage was driven by centralized lenders with weak risk controls and minimal collateral requirements. Defi lending protocols operated as designed, and just notched another proof point through a catastrophic risk contagion.
+> [Garry Tan](https://twitter.com/garrytan/status/1542833551988498432)
+
 ![DeFi Protocols Top 10](./defi-protocol-top-10.png)
 
 * NFTs have dumped like crazy in price. Usage on Solana and ImmutableX is still going up, which is a good sign. Interestingly, Solana does nearly double the volume of transactions with a little more than half of the buyers. Assets on Ethereum still has the highest valued assets
