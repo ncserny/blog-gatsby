@@ -37,7 +37,13 @@ ogimage: "./bear-market-thoughts.jpg"
 
 ###### DeFi, NFTs, Fugazis
 
+![DeFi Protocols TVL](./blockchain-total-tvl.png)
+
 * A lot of DeFi Fugazis will vanish, at latest when VC funds dry up and there isn't enough user adoption. Generating magic internet money was fun while it latest.
+* MakerDAO, the OG of DeFi, remains the protocol with highest TVL
+
+![DeFi Protocols Top 10](./defi-protocol-top-10.png)
+
 * NFTs have dumped like crazy in price. Usage on Solana and ImmutableX is still going up, which is a good sign. Interestingly, Solana does nearly double the volume of transactions with a little more than half of the buyers. Assets on Ethereum still has the highest valued assets
 ![NFT Blockchain Volume](./nft-blockchain-volume-30days.jpg)
 * NFTs that provided you with utility through staking to receive tokens, are having a hard time. Their token price and usage has gone down dramatically. So much that if you still hold some, the only option now is to hodl.
