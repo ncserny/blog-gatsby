@@ -36,7 +36,7 @@ Source: [@The_Merkinator](https://twitter.com/The_Merkinator/status/154235329676
 ![Most popular NFT Tokens](./most-popular-tokens-the_merkinator.png)
 [@The_Merkinator](https://twitter.com/The_Merkinator/status/1542353296760770562)
 
-### Most used tokens in transactions
+### Most used NFT tokens in transactions
 Taking the most popular NFT tokens by holder count and looking at their total transactions, you can see GST and DUST are consistently highest, while others only briefly spike and/or are much further behind. Staking might provide you with tokens but that doesn't mean they can be used for anything or actually have any value. That becomes apparent when you look at their $USD notation (see below)
 
 <iframe width="100%" src="https://dune.com/embeds/979455/1696654/d8502ad9-91b9-4a5e-b8b8-7c8a6bfbab13" style="border: 1px solid #000; height: 400px"></iframe>
