@@ -48,7 +48,7 @@ While $GST is in decline, $DUST transactions are on the rise which speaks for a 
 ###### DeGods $DUST Growth over the last 180 days
 ![$DUST Token](./dust-ecosystem-usage.png)
 
-### NFT token returns through staking
+### NFT staking token returns
 
 As mentioned, the list of NFT projects providing you with tokens in return is long. Looking at the list below, sorted by token price descending, some of the projects indeed generate a nice amount of magic internet money per day. The investment you need to make in order to join is high and the days to break even get longer and longer. For most: even if your NFT would generate hundreds of tokens, when multiplied by token price, you wouldn't get much USD in return.
 
