@@ -66,6 +66,4 @@ Far down in usage are once hyped tokens from projects like Monke Rejects (24hr v
 
 ![Solana Monke Rejects Price Action](./monke-rejects-price-action.png)
 
-Oh la la, [Frank](https://twitter.com/frankdegods)!
-
 > Dive deeper into the NFT token stats with the [Dune Dashboard](https://dune.com/nmknmc/solana-nft-token-stats) I built and send me any feedback you might have on twitter.
