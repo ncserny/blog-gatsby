@@ -5,7 +5,7 @@ description: "Some thoughts while entering the bear market."
 ogimage: "./bear-market-thoughts.jpg"
 ---
 
-#### Some thoughts on Crypto, Web3 and NFTs.
+#### Some thoughts on Crypto, Web3 and NFTs. We're still early, until we're late.
 
 ##### Bitcoin
 * Bitcoin closed the worst month ever. If your time horizon is more than 4 years this doesn't really matter. I'll continue stacking BTC, ETH and 2-3 select altcoins.
@@ -24,13 +24,7 @@ ogimage: "./bear-market-thoughts.jpg"
 [@CryptoGirlNova](https://twitter.com/CryptoGirlNova/status/1542813364749045760/photo/1)
 
 
-
-
-
-PlanB (remember?)
-https://twitter.com/100trillionUSD/status/1542660589939736576/photo/1
-
-
+###### Ethereum, EVMs, L2s
 
 ![Top Blockchains by revenue the last 180 days](./top-blockchains-total-revenue-180days.jpg)
 [@TrustlessState](https://twitter.com/TrustlessState/status/1542597067771727874)
@@ -41,7 +35,11 @@ https://twitter.com/100trillionUSD/status/1542660589939736576/photo/1
 * Solana is one of the few non EVM chains that do a great job in terms of UX and tooling. The uptime, for now, not so much.
 * EVM chains with minimal novelty, or that only use a different consensus mechanism which most of the time it is, will have a hard time once ecosystem funds dry up. Then Ethereum's L2s like Arbitrum, Optimism, etc. will swallow a bunch of their revenue
 
+###### DeFi, NFTs, Fugazis
+
 * A lot of DeFi Fugazis will vanish, at latest when VC funds dry up and there isn't enough user adoption. Generating magic internet money was fun while it latest.
 * NFTs have dumped like crazy in price. Usage on Solana and ImmutableX is still going up, which is a good sign. Interestingly, Solana does nearly double the volume of transactions with a little more than half of the buyers. Assets on Ethereum still has the highest valued assets
 ![NFT Blockchain Volume](./nft-blockchain-volume-30days.jpg)
 * NFTs that provided you with utility through staking to receive tokens, are having a hard time. Their token price and usage has gone down dramatically. So much that if you still hold some, the only option now is to hodl.
+
+We're still early, until we're late.
