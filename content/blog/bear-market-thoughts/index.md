@@ -2,12 +2,14 @@
 title: Entering the bear market
 date: "2022-07-01T01:04:03.284Z"
 description: "Some thoughts while we enter a potential crypto winter."
-ogimage: "./bear-market-thoughts.jpg"
+ogimage: "./stop-selling-crypto.jpg"
 ---
 
 #### Some thoughts on Crypto, Web3 and NFTs. We're still early, until we're late.
 
 --
+
+![Stop selling](./stop-selling-crypto.jpg)
 
 #### Bitcoin
 * Bitcoin closed the worst month ever with -40%. If your time horizon is more than 4 years this doesn't really matter. I'll continue stacking BTC, ETH and 2-3 select altcoins.
