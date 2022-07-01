@@ -32,7 +32,7 @@ ogimage: "./bear-market-thoughts.jpg"
 [@TrustlessState](https://twitter.com/TrustlessState/status/1542597067771727874)
 
 * Ethereum is still the king and will remain so for a long(er) time. I think the bear market will actually help both ETH and BTC sucking out liquidity from other chains
-* Using L2s (Layer 2) still sucks and MetaMask doesn't help with creating great UX. Bridging is a pain, liquidity is low, tracking where the coins are is hard. Phantom (Solana Wallet) on the other hand does a great job with UX and UI.
+* Using L2s (Layer 2) still sucks and MetaMask doesn't help with creating great UX. If only, popular L2 networks would be available to select by default. Bridging is a pain, liquidity is low, tracking where the coins are is hard. Phantom (Solana Wallet) on the other hand does a great job with UX and UI.
 
 ![MetaMask](./metamask-adding-network.jpg)
 
