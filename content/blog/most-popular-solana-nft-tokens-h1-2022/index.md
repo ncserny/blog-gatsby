@@ -15,8 +15,10 @@ In the bull market, that is now behind us, hundreds of NFT projects minted each 
 
 > Wen token? Token too much, no moon!
 
-### Most popular NFT tokens by holder count
+### Most popular NFT tokens by holders
 $GST, by lifestyle app [Stepn](https://www.stepn.com) has seen by far the biggest adoption with close to one million wallets holding the token. $DUST by [DeGods](https://degods.com) comes second in proximity to $SHDW and $GENE, then it unique holder count decreases pretty quickly.
+
+###### Top 10 NFT tokens
 
 | Rank | Token         | Collection     | Wallets |
 |--:|--------------|-----------|------------:|
