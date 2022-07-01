@@ -7,8 +7,10 @@ ogimage: "./Celsius-Network-Zoomed-In.png"
 
 #### Looks like Celsius Network is rekt. At least for the moment. Great short opportunity.
 
-## Zoom in
+--
+
+### Zoom in
 ![Zoomed in](./Celsius-Network-Zoomed-In.png)
 
-## Zoom out
+### Zoom out
 ![Zoomed out](./Celsius-Network-Zoomed-Out.jpg)

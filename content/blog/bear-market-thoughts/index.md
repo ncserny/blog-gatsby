@@ -1,13 +1,15 @@
 ---
 title: Entering the bear market
 date: "2022-07-01T01:04:03.284Z"
-description: "Some thoughts while entering the bear market."
+description: "Some thoughts while we enter the bear market."
 ogimage: "./bear-market-thoughts.jpg"
 ---
 
 #### Some thoughts on Crypto, Web3 and NFTs. We're still early, until we're late.
 
-##### Bitcoin
+--
+
+#### Bitcoin
 * Bitcoin closed the worst month ever. If your time horizon is more than 4 years this doesn't really matter. I'll continue stacking BTC, ETH and 2-3 select altcoins.
 
 ![Bitcoin worst close ever](./bear-market-thoughts.jpg)
@@ -24,7 +26,7 @@ ogimage: "./bear-market-thoughts.jpg"
 [@CryptoGirlNova](https://twitter.com/CryptoGirlNova/status/1542813364749045760/photo/1)
 
 
-###### Ethereum, EVMs, L2s
+#### Ethereum, EVMs, L2s
 
 ![Top Blockchains by revenue the last 180 days](./top-blockchains-total-revenue-180days.jpg)
 [@TrustlessState](https://twitter.com/TrustlessState/status/1542597067771727874)
@@ -35,7 +37,7 @@ ogimage: "./bear-market-thoughts.jpg"
 * Solana is one of the few non EVM chains that do a great job in terms of UX and tooling. The uptime, for now, not so much.
 * EVM chains with minimal novelty, or that only use a different consensus mechanism which most of the time it is, will have a hard time once ecosystem funds dry up. Then Ethereum's L2s like Arbitrum, Optimism, etc. will swallow a bunch of their revenue
 
-###### DeFi, NFTs, Fugazis
+#### DeFi, NFTs, Fugazis
 
 ![DeFi Protocols TVL](./blockchain-total-tvl.png)
 
