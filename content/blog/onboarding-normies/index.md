@@ -1,8 +1,8 @@
 ---
-title: "Onboarding normies to NFTs: From 0 to 1 in 38 steps"
+title: "Onboarding normies to NFTs: 38 steps from 0 to 1"
 date: "2022-03-01T01:04:03.284Z"
 description: "Onboarded an old-school art investor to buy his first NFT. Yes it's mega painful and we're still early."
-ogimage: ""
+ogimage: "./onboard-nft-challenges.jpg"
 ---
 
 #### I recently onboarded an old-school art investor to buy his first NFT. Yes it's still mega painful from 0 to 1. 38 steps to glory – a tale and fun tutorial of how it happened.
@@ -16,12 +16,12 @@ ogimage: ""
 3. Choose Password (not "banana123")
 4. Choose Seed Recovery Phrase (explain for 30mins why this is actually the most important part to keep safe. Explain why it's these "silly" words, no you should not take a photo with your phone to remember them)
 5. Click "next" a couple of times
-6. Ok, it's empty. The wallet is empty! What's this symbol? It's a currency called ETH, a blockchain which you can use to buy NFTs (I didn't get into other chains nor DeFi, that would've been overkill 😂)
+6. Ok, it's empty. The wallet is empty! What's this symbol? It's a currency called ETH, a blockchain you can use to buy NFTs (I didn't get into other chains nor DeFi, that would've been overkill 😂)
 7. We need to get "money" from a bank to fill the wallet. Clicking on "buy"
 8. Trying out Wyre: damn, limit is $500 and identification is only possible in the US. Not enough.
 9. Trying out Transak: filled out 3 steps and somehow the personal document process hangs
 10. Shiiit, we'll need to setup an extra account with Coinbase or Bitpanda. Wanted to avoid having to explain sending ETH from an exchange to this funky 0x address + additional identification
-11. Setting up an account with Bitpanda, phew pretty flawless process
+11. Setting up an account with [Bitpanda](https://www.bitpanda.com/?ref=6780714922814686223), phew pretty flawless process
 12. Top up the account with Euro by credit card.
 13. 3d secure code shenanigans with him trying to remember what he answered
 14. Made it, EUR in the account
@@ -42,7 +42,7 @@ ogimage: ""
 29. Looking at NFTs and showing the differences in collections: Fidenzas by [@tylerxhobbs](https://twitter.com/tylerxhobbs), [@BoredApeYC](https://twitter.com/BoredApeYC) and others. Explain floor price, market liquidity, owners, auctions and other important factors.
 30. Search for a specific NFT
 31. Click "Buy now"
-32. #Metamask opens, confirm, window closes, nothing happens
+32. Metamask opens, confirm, window closes, nothing happens
 33. Click again on "Buy now"
 34. MetaMask confirm, Transaction processing...
 35. Complete!
@@ -52,4 +52,4 @@ ogimage: ""
 
 We're used to interacting with all these currencies, exchanges, assets and tools while forgetting there is still a lot of effort needed to onboard the next billion people. This is just the "JPEG case" without staking, not buying land with an NFT, nor DeFi, DAOs or other chains.
 
-*We're still **very** early. LFG!*
+*We're still **very** early. It's time for better UX. LFG!*
